@@ -1,0 +1,9 @@
+subprojects {
+    afterEvaluate {
+        java {
+            toolchain {
+                languageVersion = JavaLanguageVersion.of(15)
+            }
+        }
+    }
+}
