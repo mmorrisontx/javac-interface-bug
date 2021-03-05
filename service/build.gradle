@@ -2,5 +2,5 @@ plugins {
     id 'java'
 }
 dependencies {
-    compile project(':mid')
+    compile project(':base')
 }

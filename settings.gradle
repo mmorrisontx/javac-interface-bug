@@ -1,1 +1,1 @@
-include 'base', 'mid', 'service'
+include 'base', 'service'
